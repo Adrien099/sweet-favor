@@ -52,7 +52,7 @@ export default function FirstScreen({ onNext }) {
                     transition={{ delay: 0.5, duration: 0.8 }}
                     className="text-lg text-foreground/90 text-center max-w-md mb-10 font-light"
                 >
-                    Just listen for a moment 🤍
+                    Just listen for a moment sayruu...🤍
                 </motion.p>
 
                 {/* button */}
